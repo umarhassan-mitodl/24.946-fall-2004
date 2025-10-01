@@ -27,6 +27,7 @@
     "website": "24-946-linguistic-theory-and-the-japanese-language-fall-2004"
   },
   "course_title": "Linguistic Theory and the Japanese Language",
+  "hide_download": true,
   "course_description": "This course is a detailed examination of the grammar of Japanese and its structure which is significantly different from English, with special emphasis on problems of interest in the study of linguistic universals. Data from a broad group of languages is studied for comparison with Japanese. This course assumes familiarity with linguistic theory.\n",
   "department_numbers": [
     "24"
@@ -37,6 +38,7 @@
     "content": "ba486672-c290-00f8-16b5-0ea0a508d17b",
     "website": "24-946-linguistic-theory-and-the-japanese-language-fall-2004"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Presentation Assignments",

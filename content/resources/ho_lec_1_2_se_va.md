@@ -7,6 +7,8 @@ description: 'This resource contains the following topics:
 file: /courses/24-946-linguistic-theory-and-the-japanese-language-fall-2004/cc6e3298f5f36b44e64ec3ee8ad3b895_ho_lec_1_2_se_va.pdf
 file_size: 136054
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

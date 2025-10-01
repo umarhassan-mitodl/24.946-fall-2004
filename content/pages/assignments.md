@@ -2,6 +2,8 @@
 content_type: page
 description: 'There are two main assignments for this course: a class presentation
   and a final paper.'
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

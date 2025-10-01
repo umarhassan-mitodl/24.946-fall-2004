@@ -2,6 +2,8 @@
 content_type: page
 description: Readings section lists the journal articles and textbook selections for
   each lecture session.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
